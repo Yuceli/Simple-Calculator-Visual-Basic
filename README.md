@@ -1,4 +1,4 @@
-Simple-Calculator-Visual-Basic
+#Simple Calculator in Visual Basic
 ==============================
 
-Simple Calculator Visual Basic
+Calculator developed for the subject of Theory of Computing in order to test the syntax of Visual Basic
